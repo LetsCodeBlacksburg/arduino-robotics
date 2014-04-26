@@ -2,7 +2,7 @@
 
 const int triggerPin = 12;
 const int echoPin = 13;
-
+ 
 void setup() {
   // initialize serial communication:
   Serial.begin(9600);           //for outputting distance data

@@ -1,4 +1,3 @@
-
 //  Let's Code Blacksburg
 //  Ping trigger/echo ultrasonic distance sensor code
 //       (version .1 -tweeks )
